@@ -2,6 +2,11 @@
 
 A portfolio **e‑commerce storefront** for the fictional entity **Stratford Mercantile, Ltd.** The experience is deliberately formal in copy and visuals (crest-style logo, serif wordmark) while the implementation stays a transparent **engineering demo**: mock catalogue, illustrative checkout only, no live payments or database.
 
+| | |
+|:---|:---|
+| **GitHub repository** | [**`stratford-mercantile-storefront`**](https://github.com/YatharthSharma1309/stratford-mercantile-storefront) |
+| **Clone** | `git clone https://github.com/YatharthSharma1309/stratford-mercantile-storefront.git` |
+
 ---
 
 ## What this project is
@@ -56,7 +61,7 @@ No environment variables are required for local runs.
 
 ## Repository naming note
 
-The package name remains `ecommerce-dashboard` for historical reasons. The shipped product positioning is **“Stratford Mercantile” storefront**, not separate admin analytics software. If you publish the repo publicly, rename the folder/GitHub repo to match (for example `stratford-mercantile-storefront`) once links and CI are updated.
+This codebase is hosted on GitHub as **`stratford-mercantile-storefront`**. The npm **`package.json` name** may still show `ecommerce-dashboard` locally for historical reasons; the public repo name reflects the Stratford Mercantile storefront positioning rather than separate admin/dashboard software.
 
 ---
 
